@@ -1,3 +1,5 @@
+// Kişi bilgilerini tuttuğumuz dosya
+
 const reviews = [
     {
       id: 1,
